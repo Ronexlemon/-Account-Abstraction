@@ -11,5 +11,5 @@ export const bundler: IBundler = new Bundler({
 });
 
 export const paymaster: IPaymaster = new BiconomyPaymaster({
-  paymasterUrl: "https://paymaster.biconomy.io/api/v1/80001/YOUR_API_KEY",
+  paymasterUrl: "https://paymaster.biconomy.io/api/v1/80001/1Ii5iZEFO.f4f63cec-75d6-45cb-958a-c128e6ce786b",
 });
